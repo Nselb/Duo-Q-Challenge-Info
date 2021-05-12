@@ -20,7 +20,7 @@ El 60% de lo recaudado
 ### 2do lugar 
 El 30% de lo recaudado
 ### 3er lugar 
-El 15% de lo recaudado
+El 10% de lo recaudado
 - El premio puede ser en efectivo o en RP. 
 ## Instrucciones de instalacion de la app (Opcional)
 - Descargan el zip del proyecto
