@@ -24,8 +24,16 @@ $15 en premios
 - El premio puede ser en efectivo o en RP. 
 ## Instrucciones de instalacion de la app (Opcional)
 - Descargan el zip del proyecto
-[Link de descarga](https://downgit.github.io/#/home?url=https://github.com/Nselb/Duo-Q-Challenge-Info/tree/main/DuoQ%20App%20Installer "DuoQ Aoo Installer")
+[Link de descarga](https://downgit.github.io/#/home?url=https://github.com/Nselb/Duo-Q-Challenge-Info/tree/main/DuoQ%20App%20Installer "DuoQ App Installer")
 - Descomprimen la carpeta y ejecutan en ShelScript el archivo señalado
 
 ![Segundo paso](https://github.com/Nselb/Duo-Q-Challenge-Info/blob/main/Assets/Screen2.png)
+- En la ventana que les aparece aplastan Enter, les va a pedir activar el modo de desarrollador en su computadora, lo hacen
+![Tercer paso](https://github.com/Nselb/Duo-Q-Challenge-Info/blob/main/Assets/Screen4.png)
+- Les preguntara si quieren continuar, escriben "S" y dan enter
+![Cuarto paso](https://github.com/Nselb/Duo-Q-Challenge-Info/blob/main/Assets/Screen5.png)
+- La aplicacion se instalara y mandan enter
+![Quinto paso](https://github.com/Nselb/Duo-Q-Challenge-Info/blob/main/Assets/Screen6.png)
+- La aplicacion aparecera en su menu inicio
+![Sexto paso](https://github.com/Nselb/Duo-Q-Challenge-Info/blob/main/Assets/Screen7.png)
 
