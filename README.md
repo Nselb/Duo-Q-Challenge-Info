@@ -29,11 +29,11 @@ $15 en premios
 
 ![Segundo paso](https://github.com/Nselb/Duo-Q-Challenge-Info/blob/main/Assets/Screen2.png)
 - En la ventana que les aparece aplastan Enter, les va a pedir activar el modo de desarrollador en su computadora, lo hacen
-![Tercer paso](https://github.com/Nselb/Duo-Q-Challenge-Info/blob/main/Assets/Screen4.png)
+![Tercer paso](https://github.com/Nselb/Duo-Q-Challenge-Info/blob/main/Assets/Screen4.jpg)
 - Les preguntara si quieren continuar, escriben "S" y dan enter
-![Cuarto paso](https://github.com/Nselb/Duo-Q-Challenge-Info/blob/main/Assets/Screen5.png)
+![Cuarto paso](https://github.com/Nselb/Duo-Q-Challenge-Info/blob/main/Assets/Screen5.jpg)
 - La aplicacion se instalara y mandan enter
-![Quinto paso](https://github.com/Nselb/Duo-Q-Challenge-Info/blob/main/Assets/Screen6.png)
+![Quinto paso](https://github.com/Nselb/Duo-Q-Challenge-Info/blob/main/Assets/Screen6.jpg)
 - La aplicacion aparecera en su menu inicio
-![Sexto paso](https://github.com/Nselb/Duo-Q-Challenge-Info/blob/main/Assets/Screen7.png)
+![Sexto paso](https://github.com/Nselb/Duo-Q-Challenge-Info/blob/main/Assets/Screen7.jpg)
 
