@@ -35,5 +35,6 @@ $15 en premios
 - La aplicacion se instalara y mandan enter
 ![Quinto paso](https://github.com/Nselb/Duo-Q-Challenge-Info/blob/main/Assets/Screen6.jpg)
 - La aplicacion aparecera en su menu inicio
+
 ![Sexto paso](https://github.com/Nselb/Duo-Q-Challenge-Info/blob/main/Assets/Screen7.jpg)
 
