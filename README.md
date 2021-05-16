@@ -34,7 +34,8 @@ El 20% de lo recaudado
 - Les preguntara si quieren continuar, escriben "S" y dan enter
 ![Cuarto paso](https://github.com/Nselb/Duo-Q-Challenge-Info/blob/main/Assets/Screen5.jpg)
 - La aplicacion se instalara y mandan enter
-![Quinto paso](https://github.com/Nselb/Duo-Q-Challenge-Info/blob/main/Assets/Screen6.jpg)
+![Quinto paso1](https://user-images.githubusercontent.com/70535124/118416909-70841580-b677-11eb-856f-5d7125c19df1.png)
+![Quinto paso2](https://github.com/Nselb/Duo-Q-Challenge-Info/blob/main/Assets/Screen6.jpg)
 - La aplicacion aparecera en su menu inicio en Agregadas recientemente
 
 ![Sexto paso](https://github.com/Nselb/Duo-Q-Challenge-Info/blob/main/Assets/Screen7.jpg)
