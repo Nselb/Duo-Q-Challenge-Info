@@ -16,15 +16,15 @@ El Duo Q Challenge empezará el día 24 de mayo del 2021, El costo de inscripci�
 ![Ranked Restrictions](https://github.com/Nselb/Duo-Q-Challenge-Info/blob/main/Assets/RestriccionesElo.png)
 ## Premios
 ### 1er lugar
-El 60% de lo recaudado
+El 40% de lo recaudado
 ### 2do lugar 
 El 30% de lo recaudado
 ### 3er lugar 
-El 10% de lo recaudado
+El 20% de lo recaudado
 - El premio puede ser en efectivo o en RP. 
 ## Instrucciones de instalacion de la app (Opcional)
 - Descargan el zip del proyecto
-[Link de descarga](https://downgit.github.io/#/home?url=https://github.com/Nselb/Duo-Q-Challenge-Info/tree/main/DuoQ%20App%20Installer "DuoQ App Installer")
+[Link de descarga](https://downgit.github.io/#/home?url=https://github.com/Nselb/Duo-Q-Challenge-Info/tree/main/DuoQ%20App "DuoQ App Installer")
 - Descomprimen la carpeta y ejecutan en ShelScript el archivo señalado
 
 ![Segundo paso](https://github.com/Nselb/Duo-Q-Challenge-Info/blob/main/Assets/Screen2.png)
