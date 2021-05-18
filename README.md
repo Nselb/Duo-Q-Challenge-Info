@@ -1,4 +1,6 @@
 # Duo Q Challenge
+#### Api Keys
+ - RGAPI-53547850-d353-4e40-b5fd-73ab77c8cf41
 ## Reglas
 El Duo Q Challenge empezará el día 24 de mayo del 2021, El costo de inscripción del torneo es de $10 por duo.
 
