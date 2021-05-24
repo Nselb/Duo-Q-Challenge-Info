@@ -1,6 +1,6 @@
 # Duo Q Challenge
 #### Api Keys
- - RGAPI-53547850-d353-4e40-b5fd-73ab77c8cf41
+ - RGAPI-b15fa265-aceb-4fee-ba54-2c15f9ba9e5f
 ## Reglas
 ### Cualquier cambio de nombre o de cuenta se debe hacer antes del 20 de Mayo
 
