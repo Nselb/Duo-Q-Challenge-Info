@@ -19,11 +19,7 @@ El Duo Q Challenge empezará el día 24 de mayo del 2021, El costo de inscripci�
 - Al iniciar se escogera el duo respetando esta grafica, 
 ![Ranked Restrictions](https://github.com/Nselb/Duo-Q-Challenge-Info/blob/main/Assets/RestriccionesElo.png)
 ## Premios
-### 1er lugar
-
-### 2do lugar 
-
-### 3er lugar 
+para primero segundo y tercer lugar
 
 - El premio puede ser en efectivo o en RP. 
 ## Instrucciones de instalacion de la app (Opcional)
